@@ -1,0 +1,13 @@
+---
+version: 1
+story_title: "TEST"
+locale: 'fr_FR'
+resources:
+    "resource":
+        description: "Test resource"
+        format: "%s"
+        display_name: "Resource"
+        default: 100
+---
+
+A test storyline.
